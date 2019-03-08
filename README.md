@@ -1,6 +1,6 @@
 # 🛒 Price Basket - Coding Assignment
 
-This is the sample solution for interview coding assignment challenge.
+This is the sample solution for the interview coding challenge.
 
 ## INSTRUCTIONS
 
